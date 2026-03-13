@@ -6,9 +6,6 @@
 Operational spreadsheet consulting for small businesses
 </p>
 
-
-# Efflexion
-
 Operational spreadsheet consulting for small businesses.
 
 Efflexion helps organisations stabilise fragile spreadsheets, automate repetitive workflows, and build reporting that supports confident day-to-day decisions.
