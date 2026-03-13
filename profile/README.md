@@ -70,7 +70,7 @@ The audit provides a clear scope before any corrective work begins.
 
 ---
 
-# Guides and resources
+# 📚 Guides and resources
 
 This GitHub organisation also hosts practical guides on spreadsheet reliability, automation, and reporting.
 
