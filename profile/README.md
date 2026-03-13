@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://efflexion.com/assets/img/efflexion-logo.png" width="200">
+  <img src="https://efflexion.com/assets/img/efflexion-logo.png" width="220">
+</p>
+
+<h1 align="center">Efflexion</h1>
+
+<p align="center">
+Operational spreadsheet consulting for small businesses
 </p>
 
 
