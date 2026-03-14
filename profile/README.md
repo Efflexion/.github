@@ -13,7 +13,10 @@ Over time those tools often become slow, fragile, or difficult to trust.
 
 Efflexion restores structure and reliability so those systems support the business instead of slowing it down.
 
----
+<p></p>
+<p align="center">
+──────────── ✦ ────────────
+</p>
 
 # What Efflexion focuses on
 
@@ -28,8 +31,6 @@ Typical improvements include:
 - easier handover between team members  
 - spreadsheets that remain stable as data grows  
 
----
-
 ## Workflow Automation
 
 Removing repetitive manual processes using Excel and Power Query.
@@ -41,8 +42,6 @@ Common results:
 - consistent data processing  
 - reduced human error  
 
----
-
 ## Business Reporting
 
 Turning operational data into clear, decision-ready reporting using Excel or Power BI.
@@ -53,7 +52,9 @@ Typical outcomes:
 - consistent reporting structure  
 - reduced manual report preparation  
 
----
+<p align="center">
+──────────── ✦ ────────────
+</p>
 
 # How engagements usually begin
 
@@ -68,7 +69,9 @@ This short diagnostic identifies:
 
 The audit provides a clear scope before any corrective work begins.
 
----
+<p align="center">
+──────────── ✦ ────────────
+</p>
 
 # 📚 Guides and resources
 
@@ -76,48 +79,47 @@ This GitHub organisation also hosts practical guides on spreadsheet reliability,
 
 ### Spreadsheet reliability
 
-- Spreadsheet Health Audit Checklist  
-- Spreadsheet Fragility Checklist  
-- Spreadsheet Maintenance Checklist  
+- [Spreadsheet Health Audit Checklist](https://github.com/Efflexion/spreadsheet-health-audit-checklist)
+- [Spreadsheet Fragility Checklist](https://github.com/Efflexion/spreadsheet-fragility-checklist)
+- [Spreadsheet Maintenance Checklist](https://github.com/Efflexion/spreadsheet-maintenance-checklist)
 
 ### Spreadsheet design
 
-- Spreadsheet Model Structure Guide  
+- [Spreadsheet Model Structure Guide](https://github.com/Efflexion/spreadsheet-model-structure-guide)
 
 ### Data preparation
 
-- Power Query Data Cleaning Patterns  
+- [Power Query Data Cleaning Patterns](https://github.com/Efflexion/power-query-data-cleaning-patterns)
 
 ### Workflow and reporting automation
 
-- Excel Workflow Automation Examples  
-- Excel Reporting Automation Patterns  
+- [Excel Workflow Automation Examples](https://github.com/Efflexion/excel-workflow-automation-examples)
+- [Excel Reporting Automation Patterns](https://github.com/Efflexion/excel-reporting-automation-patterns)
 
 ### Spreadsheet rescue
 
-- Messy Excel File Rescue Guide  
+- [Messy Excel File Rescue Guide](https://github.com/Efflexion/messy-excel-file-rescue-guide)
 
 These resources outline practical approaches for improving spreadsheet reliability in operational environments.
 
----
+<p align="center">
+──────────── ✦ ────────────
+</p>
 
 # About
 
-Efflexion was founded after more than twenty years working in private banking in London, where operational clarity and reliability were essential.
+Efflexion helps organisations stabilise fragile spreadsheets, automate repetitive workflows, and build reporting that supports confident operational decisions.
 
-That same disciplined approach now underpins Efflexion’s consulting work.
+<p align="center">
+──────────── ✦ ────────────
+</p>
 
-The goal is simple:
+Learn more about spreadsheet stabilisation:
+https://efflexion.com/spreadsheet-health-audit
 
-**spreadsheets that remain dependable as businesses grow.**
-
----
-
-# Website
-
+Efflexion consulting:
 https://efflexion.com
-
----
+https://efflexion.com
 
 # Contact
 
