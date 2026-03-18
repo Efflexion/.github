@@ -11,7 +11,7 @@ Efflexion helps organisations stabilise fragile spreadsheets, automate repetitiv
 Many businesses rely on spreadsheets as operational systems.  
 Over time those tools often become slow, fragile, or difficult to trust.
 
-Efflexion builds and stabilises spreadsheet-based operational systems for small and medium sized businesses.
+Efflexion builds and stabilises spreadsheet-based operational systems for small and medium-sized businesses, reducing fragility and improving day-to-day decision-making.
 
 <p></p>
 <p align="center">
